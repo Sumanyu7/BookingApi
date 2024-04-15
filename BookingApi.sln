@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingApi", "BookingApi.csproj", "{BACD79F1-83DF-4579-94E2-E89F99912A59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BACD79F1-83DF-4579-94E2-E89F99912A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BACD79F1-83DF-4579-94E2-E89F99912A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BACD79F1-83DF-4579-94E2-E89F99912A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BACD79F1-83DF-4579-94E2-E89F99912A59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
